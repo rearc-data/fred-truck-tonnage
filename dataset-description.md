@@ -1,0 +1,1 @@
+This release contains information on the truck tonnage index. The truck tonnage index is a way to measure the gross tonnage of freight which is carried by motor carriers monthly in the United States. It is an important data point as around seventy percent of motor carriers are trucks.
