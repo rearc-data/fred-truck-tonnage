@@ -4,7 +4,7 @@
 
 # Truck Tonnage | FRED
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-fyzwukf72lbk6](https://aws.amazon.com/marketplace/pp/prodview-fyzwukf72lbk6).
 
 ## Main Overview
 
