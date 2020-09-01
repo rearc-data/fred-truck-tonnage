@@ -1,5 +1,4 @@
-Truck Tonnage | FRED
-========================= 
+# Truck Tonnage | FRED
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-truck-tonnage](https://github.com/rearc-data/fred-truck-tonnage).
 
