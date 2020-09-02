@@ -32,7 +32,7 @@ def data_to_s3(frmt):
 
         # variables/resources used to upload to s3
         s3_bucket = os.environ['S3_BUCKET']
-        new_s3_key = data_set_name + '/dataset/'
+        new_s3_key = data_set_name + '/dataset/' + filename
         s3 = boto3.client('s3')
 
         # If the md5 hash of our new file does NOT match the s3 etag, upload the new file
